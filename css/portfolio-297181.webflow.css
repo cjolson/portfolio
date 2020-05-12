@@ -696,25 +696,28 @@ a {
 }
 
 .project-card-image-left.desktop.dice {
-  background-color: #000;
+  background-color: #b1c3bc;
   background-image: url('../images/ian-gonzalez-oVXMtsMejqo-unsplash.jpg');
   background-position: 0% 100%;
   background-size: cover;
 }
 
 .project-card-image-left.desktop.teens {
+  background-color: #b1c3bc;
   background-image: url('../images/eliott-reyna-5KrZ3UoDKC4-unsplash.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .project-card-image-left.desktop.drugs {
+  background-color: #b1c3bc;
   background-image: url('../images/warren-wong-q5QXU-97_i0-unsplash.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .project-card-image-left.desktop.grief {
+  background-color: #b1c3bc;
   background-image: url('../images/jordan-whitt-KQCXf_zvdaU-unsplash.jpg');
   background-position: 50% 50%;
   background-size: cover;
@@ -1107,9 +1110,19 @@ a {
     height: 100px;
   }
   .project-card-image-top.mobile.dice {
+    background-color: #b1c3bc;
     background-image: url('../images/ian-gonzalez-oVXMtsMejqo-unsplash.jpg');
     background-position: 50% 100%;
     background-size: cover;
+  }
+  .project-card-image-top.mobile.teens {
+    background-color: #b1c3bc;
+  }
+  .project-card-image-top.mobile.drugs {
+    background-color: #b1c3bc;
+  }
+  .project-card-image-top.mobile.grief {
+    background-color: #b1c3bc;
   }
 }
 
